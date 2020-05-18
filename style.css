@@ -1,0 +1,42 @@
+body {
+    text-align: center; 
+}
+
+p {
+    text-align: left;
+}
+
+#main {
+    --max-width: 700px;
+    margin: auto;
+    background-color: rgb(241, 235, 223);
+    padding: 35px;
+}     
+
+#img-div {
+    text-align: center;
+    background: white;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+#title {
+    background-color: #D8DCC3;
+    color: #677D35;
+    font-size: 40px;
+    padding: 10px;
+}
+#tribute-info {
+    max-width: 700px;
+    margin: 0 auto;
+}
+#tribute-link {
+    color:blue;
+}
+
+#img-caption {
+    margin: 15px;
+}
